@@ -9,4 +9,12 @@ h1 {
 img {
     width: 600px;
     height: auto;
+    border: 10px solid lightblue;
+    border-radius: 50px;
+}
+
+.dishes {
+    background-color: lightblue;
+    padding: 10px;
+    justify-content: center;
 }
